@@ -7,6 +7,7 @@ public class CollabMain {
         //DO NOT EDIT ADD ONE METHOD CALL
         BrandonStrobel();
         JonathanMorales();
+        Stathers();
     }
     /*Create methods 
      *declaring you have made a change mine is below
@@ -17,4 +18,7 @@ public class CollabMain {
     public static void JonathanMorales(){
         System.out.println("Jonathan Morales");
     }
+    public static void Stathers(){
+    System.out.println("Dirk Stathers");
+}
 }
