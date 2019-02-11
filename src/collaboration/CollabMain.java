@@ -8,6 +8,7 @@ public class CollabMain {
         BrandonStrobel();
         JonathanMorales();
         Stathers();
+        TylerBrown();
     }
     /*Create methods 
      *declaring you have made a change mine is below
@@ -20,5 +21,8 @@ public class CollabMain {
     }
     public static void Stathers(){
     System.out.println("Dirk Stathers");
-}
+    }
+    public static void TylerBrown(){
+    System.out.println("Tyler Brown");
+    }
 }
